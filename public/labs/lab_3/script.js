@@ -1,10 +1,6 @@
 /* Put your javascript in here */
 
-const pngArray = [];
-for (let i = 0; i < carousel.querySelectorAll(".carousel div").length; i++) 
-{
-  pngArray.push(carousel.querySelectorAll('.carousel div')[i].dataset.background)
-};
+
 
 /* configuration */
 let width = 130;
